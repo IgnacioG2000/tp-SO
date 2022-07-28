@@ -2,7 +2,9 @@
 
 Trabajo Práctico de Sistemas Operativos, materia de 3er año de la carrera Ingeniería en Sistemas de Información UTN FRBA, realizado en el 1er cuatrimestre del año 2022
 
-[Enunciado del TP](https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit)
+#Enunciado del TP
+
+[KISS (Kernel de Implementación Super Simple](https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit)
 
 ## Integrantes
 
